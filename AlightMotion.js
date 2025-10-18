@@ -3,8 +3,8 @@ var objc = JSON.parse($response.body);
 objc = {
   "result": {
     "result": "success",
-    "msTime": 1709216800128,
-    "accountCreatedMillis": null,
+    "msTime": 1222905600000,
+    "accountCreatedMillis": 1222905600000,
     "licenses": [
       {
         "benefits": [
@@ -25,7 +25,7 @@ objc = {
         "period": "1y",
         "label": null,
         "details": null,
-        "expires": 1740926942000,
+        "expires": 4466083200000,
         "valid": true,
         "linkStatus": "linked-current"
       }
